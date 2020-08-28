@@ -1,1 +1,2 @@
-*.jpeg
+# ignore all jpeg files
+images/*.jpeg

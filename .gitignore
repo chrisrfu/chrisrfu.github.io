@@ -1,2 +1,5 @@
 # ignore all jpeg files
 images/*.jpeg
+# ignore DS
+.DS_Store
+**/.DS_Store
